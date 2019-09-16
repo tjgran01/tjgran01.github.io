@@ -1,6 +1,6 @@
 .jumbotron {
   background-image: url("./img/hills_test.png");
-  background-size: cover;
+  background-size: contain;
 }
 
 .pixel-bigger {
