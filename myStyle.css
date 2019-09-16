@@ -4,9 +4,10 @@
 }
 
 .pixel-bigger {
-  height: 64px;
-  width: 64px;
-  background-color: #bbeff0;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
 }
 
 .background-stuff{
