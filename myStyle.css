@@ -15,6 +15,6 @@
 }
 
 .round-me{
-  border-top-right-radius: 10%;
-  border-bottom-right-radius: 10%;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
 }
