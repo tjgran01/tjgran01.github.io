@@ -9,8 +9,6 @@
   background-color: #bbeff0;
 }
 
-img {
-  image-rendering: auto;
-  image-rendering: crisp-edges;
-  image-rendering: pixelated;
+.background-stuff{
+  background-color: #B7CAE0;
 }
