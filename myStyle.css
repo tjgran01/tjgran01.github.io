@@ -13,3 +13,8 @@
 .background-stuff{
   background-color: rgba(183, 202, 224, 0.8);
 }
+
+.round-me{
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+}
