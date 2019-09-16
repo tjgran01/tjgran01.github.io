@@ -1,4 +1,10 @@
 .jumbotron {
-  background-image: url("../img/hill_test.png");
+  background-image: url("./img/hill_test.png");
   background-size: cover;
+}
+
+img {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
 }
